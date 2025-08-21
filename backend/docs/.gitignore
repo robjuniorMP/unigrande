@@ -1,0 +1,13 @@
+# ignorar arquivos tradicionais
+*.doc
+*.docx
+*.pdf
+*.jpeg
+*.csv
+*.xml
+*.txt
+
+# ignorar pastas
+**/*.bak
+**/*.swap
+**/*.swo

@@ -1,0 +1,1 @@
+# documentos de arquivos como pdf, doc, etc
